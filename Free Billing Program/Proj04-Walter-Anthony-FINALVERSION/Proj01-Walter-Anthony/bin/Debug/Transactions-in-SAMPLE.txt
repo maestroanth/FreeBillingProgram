@@ -1,0 +1,51 @@
+# This is a sample transaction file for the CIS605 project for Spring 2015.
+# When reading the file, your program should process lines starting with a "#" as comment lines.
+# Comment lines and blank lines should not be processed as "transactions".
+# While the sample transactions in this file show all UPPERCASE for the types and actions
+# of the transactions, your program should be able to process transaction files that
+# do not use all UPPERCASE.  They should handle MixedCase or all lowercase just as well.
+# The fields within a transaction are semicolon (";") delimited.  While the examples
+# in this file show a single space after each semicolon, your program should work
+# equally well when there are any number of spaces before and/or after each semicolon,
+# including no spaces.
+
+# Normal/GOOD transactions (these are examples, other combinations need to be handled, too):
+20150420; 0800; UTILITY; CREATE; U 001(f); Xcel Energy; Natural Gas; Therms
+20150420; 0801; UTILITY; CREATE; U 002(f); PVREA; Electricity; KwH
+20150420; 0802; CUSTOMER; CREATE; C 001(f); Sammy Smith
+20150420; 0803; CUSTOMER; CREATE; C 002(f); Heather Jones
+20150420; 0804; CUSTOMER; CREATE; C 003(f); Jennifer Shilling
+20150420; 0805; CUSTOMER; CREATE; C 004(f); Christopher Camden
+20150420; 0806; CUSTOMER; BILL; B 001(f); C 001(f); U 001(f); 20150415; 4.3; 50.75
+20150420; 0807; CUSTOMER; BILL; B 002(f); C 001(f); U 002(f); 20150416; 25.5; 30.25
+20150420; 0808; CUSTOMER; BILL; B 003(f); C 001(f); U 001(f); 20150419; 3,25; 45.25
+20150420; 0809; CUSTOMER; BILL; B 004(f); C 001(f); U 001(f); 20150420; 2.5; 40.00
+20150420; 0900; BILL; PAY; P 001(f); B 001(f); 20150419; 50.75
+20150420; 0901; BILL; PAY; P 002(f); B 002(f); 20150419; 20.00
+20150420; 0902; BILL; PAY; P 003(f); B 002(f); 20150420; 15.25
+20150425; 0903; BILL; PAY; P 004(f); B 003(f); 20150423; 20.00
+# Note that the following trx causes a person's bill to become negative,
+# meaning that they have overpaid and have a balance due back to them.
+20150426; 0904; BILL; PAY; P 005(f); B 001(f); 20150425; 50.00
+
+# BAD transactions (these are examples, other combinations need to be handled, too):
+# U ID already exists
+20150430; 1000; UTILITY; CREATE; U 001(f); Comcast; Cable; Service
+# C ID already exists
+20150430; 1001; CUSTOMER; CREATE; C 001(f); Christine Sanderson
+# B ID already exists
+20150430; 1002; CUSTOMER; BILL; B 001(f); C 001(f); U 001(f); 20150430; 5.5; 75.25
+# P ID already exists
+20150430; 1003; BILL; PAY; P 001(f); B 001(f); 20150430; 10.00
+# C ID does not exist
+20150430; 1004; CUSTOMER; BILL; B 005(f); C 000(f); U 001(f); 20150430; 5.5; 75.25
+# U ID does not exist
+20150430; 1005; CUSTOMER; BILL; B 005(f); C 001(f); U 000(f); 20150430; 5.5; 75.25
+# C ID and U ID do not exist
+20150430; 1006; CUSTOMER; BILL; B 005(f); C 000(f); U 000(f); 20150430; 5.5; 75.25
+# U ID already exists, and C ID and U ID do not exist
+20150430; 1007; CUSTOMER; BILL; B 004(f); C 000(f); U 000(f); 20150430; 5.5; 75.25
+# B ID does not exist
+20150430; 1008; BILL; PAY; P 006(f); B 000(f); 20150430; 10.00
+# P ID already exists, and B ID does not exist
+20150430; 1009; BILL; PAY; P 004(f); B 004(f); 20150430; 10.00

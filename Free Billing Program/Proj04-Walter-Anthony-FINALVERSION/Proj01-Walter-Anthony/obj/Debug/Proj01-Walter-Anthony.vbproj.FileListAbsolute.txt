@@ -1,0 +1,22 @@
+c:\users\lordanth\documents\visual studio 2013\Projects\Proj01-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe.config
+c:\users\lordanth\documents\visual studio 2013\Projects\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.FrmMain.resources
+c:\users\lordanth\documents\visual studio 2013\Projects\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.Resources.resources
+c:\users\lordanth\documents\visual studio 2013\Projects\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.vbproj.GenerateResource.Cache
+c:\users\lordanth\documents\visual studio 2013\Projects\Proj01-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe
+c:\users\lordanth\documents\visual studio 2013\Projects\Proj01-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.pdb
+c:\users\lordanth\documents\visual studio 2013\Projects\Proj01-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.xml
+c:\users\lordanth\documents\visual studio 2013\Projects\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.exe
+c:\users\lordanth\documents\visual studio 2013\Projects\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.xml
+c:\users\lordanth\documents\visual studio 2013\Projects\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\LordAnth\documents\visual studio 2013\Projects\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.vbprojResolveAssemblyReference.cache
+C:\Users\LordAnth\Desktop\Crap due\Proj01-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe.config
+C:\Users\LordAnth\Desktop\Crap due\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.exe
+C:\Users\LordAnth\Desktop\Crap due\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.xml
+C:\Users\LordAnth\Desktop\Crap due\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\LordAnth\Desktop\Crap due\Proj01-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe
+C:\Users\LordAnth\Desktop\Crap due\Proj01-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\LordAnth\Desktop\Crap due\Proj01-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.xml
+C:\Users\LordAnth\Desktop\Crap due\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.vbprojResolveAssemblyReference.cache
+C:\Users\LordAnth\Desktop\Crap due\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.FrmMain.resources
+C:\Users\LordAnth\Desktop\Crap due\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.Resources.resources
+C:\Users\LordAnth\Desktop\Crap due\Proj01-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.vbproj.GenerateResource.Cache

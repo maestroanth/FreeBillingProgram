@@ -1,0 +1,70 @@
+C:\Users\LordAnth\Desktop\Crap due\Proj02-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe.config
+C:\Users\LordAnth\Desktop\Crap due\Proj02-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe
+C:\Users\LordAnth\Desktop\Crap due\Proj02-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\LordAnth\Desktop\Crap due\Proj02-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.xml
+C:\Users\LordAnth\Desktop\Crap due\Proj02-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.FrmMain.resources
+C:\Users\LordAnth\Desktop\Crap due\Proj02-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.Resources.resources
+C:\Users\LordAnth\Desktop\Crap due\Proj02-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj03-Walter-Anthony.vbproj.GenerateResource.Cache
+C:\Users\LordAnth\Desktop\Crap due\Proj02-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.exe
+C:\Users\LordAnth\Desktop\Crap due\Proj02-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.xml
+C:\Users\LordAnth\Desktop\Crap due\Proj02-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\LordAnth\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe.config
+C:\Users\LordAnth\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.exe
+C:\Users\LordAnth\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.xml
+C:\Users\LordAnth\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\LordAnth\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe
+C:\Users\LordAnth\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\LordAnth\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.xml
+C:\Users\LordAnth\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.FrmMain.resources
+C:\Users\LordAnth\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.Resources.resources
+C:\Users\LordAnth\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj03-Walter-Anthony.vbproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe.config
+C:\Users\Matt\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.exe
+C:\Users\Matt\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.xml
+C:\Users\Matt\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\Matt\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe
+C:\Users\Matt\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\Matt\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.xml
+C:\Users\Matt\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.FrmMain.resources
+C:\Users\Matt\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.Resources.resources
+C:\Users\Matt\Desktop\Proj03-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj03-Walter-Anthony.vbproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe.config
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.exe
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.xml
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.FrmMain.resources
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.Resources.resources
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony\Proj01-Walter-Anthony\obj\Debug\Proj03-Walter-Anthony.vbproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.xml
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe.config
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.exe
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.xml
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.xml
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.FrmMain.resources
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.Resources.resources
+C:\Users\Matt\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj03-Walter-Anthony.vbproj.GenerateResource.Cache
+C:\Users\LordAnth\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe.config
+C:\Users\LordAnth\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.exe
+C:\Users\LordAnth\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.xml
+C:\Users\LordAnth\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\LordAnth\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe
+C:\Users\LordAnth\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\LordAnth\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.xml
+C:\Users\LordAnth\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.FrmMain.resources
+C:\Users\LordAnth\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.Resources.resources
+C:\Users\LordAnth\Desktop\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj03-Walter-Anthony.vbproj.GenerateResource.Cache
+C:\Users\LordAnth\Desktop\Utility Program\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe.config
+C:\Users\LordAnth\Desktop\Utility Program\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.exe
+C:\Users\LordAnth\Desktop\Utility Program\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.xml
+C:\Users\LordAnth\Desktop\Utility Program\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\LordAnth\Desktop\Utility Program\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.exe
+C:\Users\LordAnth\Desktop\Utility Program\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.pdb
+C:\Users\LordAnth\Desktop\Utility Program\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\bin\Debug\Proj01-Walter-Anthony.xml
+C:\Users\LordAnth\Desktop\Utility Program\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.FrmMain.resources
+C:\Users\LordAnth\Desktop\Utility Program\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj01_Walter_Anthony.Resources.resources
+C:\Users\LordAnth\Desktop\Utility Program\Proj04-Walter-Anthony-FINALVERSION\Proj01-Walter-Anthony\obj\Debug\Proj03-Walter-Anthony.vbproj.GenerateResource.Cache

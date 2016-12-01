@@ -1,6 +1,6 @@
 # FreeBillingProgram
 
-About: This was another final project that I got a perfect score on (a good way to make up for my lousey test scores!).  Written in VB using Visual Studio IDE.
+About: This was another final project that I got a perfect score on (a good way to make up for any lousy test scores!).  Written in VB using Visual Studio IDE.
 
 Features: The use cases this program features are creating new customers, creating new business services (Utility business services is just used as a the demo, but it can be any business service), creating a bill associated with that customer and business service, exporting invoices (although not anything nicely formatted), and also update and manage payments all with bug free error checking. AND BUG FREE!!!
 
